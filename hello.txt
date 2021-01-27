@@ -2,3 +2,4 @@
 'bounjour' 
 'hola' 
 'hallo'
+'guten tag'
